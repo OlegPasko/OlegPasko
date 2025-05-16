@@ -1,6 +1,8 @@
 ### Hi there 👋 🇺🇦 
 
 Passionate about building startups that make this world better with the awesome [Everlabs](https://everlabs.com) team!
+Now it’s about AI-driven development 🚀
+AI/LLM tools still rely heavily on human skills, but we’ve seen overall development speed increase by an estimated 10–40% over the past two years.
 
 We build SaaS, Logistics, e-Commerce and other kind of startups using:
 - Ruby on Rails;
